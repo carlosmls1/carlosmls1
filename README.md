@@ -54,7 +54,7 @@
 
 ---
 
-<img align="left" alt="carlos morales's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlosmls1&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="carlos morales's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlosmls1&show_icons=true&count_private=true&theme=radical" />
 
 <img align="left" alt="carlos morales's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmls1&layout=compact&count_private=true"/>
 
