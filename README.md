@@ -9,7 +9,7 @@
 
 ## 💡Publications
 
-| First Header  | Second Header |
+| Repository  | Project |
 | ------------- | ------------- |
 | https://github.com/carlosmls1/blog_laravel | Blog With Users roles |
 | https://github.com/carlosmls1/mt5Telegram | Metatrader + Python service |
