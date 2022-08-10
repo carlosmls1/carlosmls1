@@ -19,13 +19,6 @@
 | https://github.com/carlosmls1/SAvuegramTailwind | Vue+Tailwind+Firebase |
 | https://github.com/carlosmls1/CloudflareBypass | Cloudflare antiDDos bypass script in PHP |
 
-https://github.com/carlosmls1/blog_laravel - Blog With Users roles
-https://github.com/carlosmls1/mt5Telegram - Metatrader + Python service 
-https://github.com/carlosmls1/Sample-App-in-Laravel-With-Vue-Components - Laravel App Example
-https://github.com/carlosmls1/carlosmls_blog - Personal Blog 
-https://github.com/carlosmls1/traderBot/blob/master/app.js - Trader Bot JS
-https://github.com/carlosmls1/SAvuegramTailwind - Vue+Tailwind+Firebase
-https://github.com/carlosmls1/CloudflareBypass - Cloudflare antiDDos bypass script in PHP
 
 ### Languages and Tools:
 
