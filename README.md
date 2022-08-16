@@ -18,6 +18,7 @@
 | https://github.com/carlosmls1/traderBot/ | Trader Bot JS |
 | https://github.com/carlosmls1/SAvuegramTailwind | Vue+Tailwind+Firebase |
 | https://github.com/carlosmls1/CloudflareBypass | Cloudflare antiDDos bypass script in PHP |
+| https://github.com/carlosmls1/moviedb_api | Simple CRUD app in laravel with API |
 
 
 ### Languages and Tools:
